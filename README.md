@@ -17,8 +17,8 @@ Here is a working live demo: [https://greyu93.github.io/Nexter-page/](https://gr
 ## Installation
 
     $ git clone https://github.com/Greyu93/Nexter-page.git
-    
-Use it with Live-server
+
+Use it with Live-server and live sass compiler
 
 ## Built with
 
